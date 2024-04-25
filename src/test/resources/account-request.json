@@ -1,0 +1,9 @@
+{
+  "firstName": "Local Name",
+  "lastName": "Local Contact",
+  "emailId": "test@test.com",
+  "initialAmount": 2,
+  "contactNumber": "+91-0123456789",
+  "accountType":"Savings"
+  }
+

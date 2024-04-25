@@ -1,0 +1,13 @@
+{
+  "id":"619c66c1-bd12-45ca-851c-1bf1d05a7089",	
+  "iban":"NL91ABNA0417164312",	
+  "firstName": "Local Name",
+  "lastName": "Local Contact",
+  "emailId": "test@test.com",
+  "currentBalance": 2,
+  "contactNumber": "+91-0123456789",
+  "accountType":"Savings",
+  "accountStatus":"Active"
+  }
+
+ 
